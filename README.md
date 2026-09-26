@@ -1,10 +1,10 @@
 <p align="center">
-<img width="244px" height="145px" src="https://i.pinimg.com/originals/b3/65/bb/b365bb475875ea09104b72694c44fa9a.gif">
+<img width="244px" height="145px" src="https://i.pinimg.com/originals/21/c4/b6/21c4b6965f728fa83a9378b4bb20f464.gif">
 <p align="center">
 <div align="center">
-  <a href="https://rentry.co/themeetingplaces">rentry</a>　
-  ㅤ￴<a href="https://pronouns.cc/@themeetingplaces">pronouns</a>￴￴　
-　<a href="https://themeetingplaces.atabook.org/">atabook</a>￴
+  <a href="https://rentry.co/themeetingplaces">RENTRY</a>　
+  ㅤ￴<a href="https://pronouns.cc/@themeetingplaces">PRONOUNS</a>￴￴　
+　<a href="https://themeetingplaces.atabook.org/">ATABOOK</a>￴
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
