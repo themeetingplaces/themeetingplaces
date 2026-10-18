@@ -2,9 +2,9 @@
 <img width="183px" height="105px" src="https://media1.tenor.com/m/BmCIbs_bjlcAAAAC/smile-dog.gif">
 <p align="center">
 <div align="center">
-  <a href="https://rentry.co/gunfire76">rentry</a>　
-  ㅤ￴<a href="https://pronouns.cc/@gunfire76">pronouns</a>￴￴　
-　<a href="https://gunfire76.atabook.org/">atabook</a>￴
+  <a href="https://rentry.co/xanaxtasy">rentry</a>　
+  ㅤ￴<a href="https://pronouns.cc/@xanaxtasy">pronouns</a>￴￴　
+　<a href="https://xanaxtasy.atabook.org/">atabook</a>￴
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
