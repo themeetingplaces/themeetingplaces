@@ -1,5 +1,5 @@
 <p align="center">
-<img width="244px" height="145px" src="https://i.pinimg.com/originals/e4/88/6a/e4886a3ac2c575db64de6eb6b09daa24.gif">
+<img width="244px" height="145px" src="https://media1.tenor.com/m/BmCIbs_bjlcAAAAC/smile-dog.gif">
 <p align="center">
 <div align="center">
   <a href="https://rentry.co/gunfire76">RENTRY</a>　
