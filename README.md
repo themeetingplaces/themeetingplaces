@@ -2,9 +2,9 @@
 <img width="94px" height="50px" src="https://file.garden/aTN1R0deYkPxCX0D/necroweddy.jpg">
 <p align="center">
 <div align="center">
-  <a href="https://rentry.co/necrophaze">RENTRY</a>　
-  ㅤ￴<a href="https://pronouns.cc/@necrophaze">PRONOUNS</a>￴￴　
-　<a href="https://necrophaze.atabook.org/">ATABOOK</a>￴
+  <a href="https://rentry.co/onlyflesh">RENTRY</a>　
+  ㅤ￴<a href="https://pronouns.cc/@onlyflesh">PRONOUNS</a>￴￴　
+　<a href="https://onlyflesh.atabook.org/">ATABOOK</a>￴
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
