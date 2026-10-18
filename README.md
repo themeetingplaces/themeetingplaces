@@ -2,9 +2,9 @@
 <img width="244px" height="145px" src="https://64.media.tumblr.com/2aac5eb7b438456092463bdffd2cf53a/tumblr_ni72r1ldhP1se9xd2o5_500.gifv">
 <p align="center">
 <div align="center">
-  <a href="https://rentry.co/themeetingplaces">RENTRY</a>　
-  ㅤ￴<a href="https://pronouns.cc/@themeetingplaces">PRONOUNS</a>￴￴　
-　<a href="https://themeetingplaces.atabook.org/">ATABOOK</a>￴
+  <a href="https://rentry.co/opentillate">RENTRY</a>　
+  ㅤ￴<a href="https://pronouns.cc/@opentillate">PRONOUNS</a>￴￴　
+　<a href="https://opentillate.atabook.org/">ATABOOK</a>￴
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
