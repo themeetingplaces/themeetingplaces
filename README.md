@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120px" height="120px" src="https://file.garden/aTN1R0deYkPxCX0D/smileydawg.gif">
+<img width="100px" height="100px" src="https://file.garden/aTN1R0deYkPxCX0D/smileydawg.gif">
 <p align="center">
 <div align="center">
   <a href="https://rentry.co/xanaxtasy">rentry</a>　
